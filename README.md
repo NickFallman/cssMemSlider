@@ -2,4 +2,4 @@
 
 ## CSS Mem Slider (by NickFallman)
 
-[CSS Mem Slider](https://nickfallman.github.io/cssMemSlider/cssMemSlider/index.html)
+[CSS Mem Slider](https://nickfallman.github.io/cssMemSlider/cssMemSlider/)
